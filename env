@@ -2,6 +2,6 @@
 # Replace these placeholder values with your actual credentials from Snap
 # Do not commit your actual credentials to version control
 
-LENS_ID=c9a8b790-01f2-4c57-9636-a85e16825722
-GROUP_ID=669a76c7-7126-4adb-a6b0-30e03fec09aa
-API_TOKEN=eyJhbGciOiJIUzI1NiIsImtpZCI6IkNhbnZhc1MyU0hNQUNQcm9kIiwidHlwIjoiSldUIn0.eyJhdWQiOiJjYW52YXMtY2FudmFzYXBpIiwiaXNzIjoiY2FudmFzLXMyc3Rva2VuIiwibmJmIjoxNzM0NDI5MzY1LCJzdWIiOiI2Mjk3NmE4MS0xM2FiLTQ0MDgtYTA3Yi0wNWZiNDYwNWU2MzZ-U1RBR0lOR34wYTc4YmY1MS1kYjFhLTQyMTMtOTM0Mi1iZDg3OTk4NzZjZjcifQ.5wwTmRlndI-P9LW61RWcBtnrvk5ruMKPi0WdilQOgYU
+LENS_ID=
+GROUP_ID=
+API_TOKEN=
